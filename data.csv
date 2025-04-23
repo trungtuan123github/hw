@@ -1,0 +1,23 @@
+,0,1,2,3,4,5
+0,Wine ,Chips,Bread,Butter,Milk ,Apple 
+1,Wine ,,Bread,Butter,Milk ,
+2,,,Bread,Butter,Milk ,
+3,,Chips,,,,Apple 
+4,Wine ,Chips,Bread,Butter,Milk ,Apple 
+5,Wine ,Chips,,,Milk ,
+6,Wine ,Chips,Bread,Butter,,Apple 
+7,Wine ,Chips,,,Milk ,
+8,Wine ,,Bread,,,Apple 
+9,Wine ,,Bread,Butter,Milk ,
+10,,Chips,Bread,Butter,,Apple 
+11,Wine ,,,Butter,Milk ,Apple 
+12,Wine ,Chips,Bread,Butter,Milk ,
+13,Wine ,,Bread,,Milk ,Apple 
+14,Wine ,,Bread,Butter,Milk ,Apple 
+15,Wine ,Chips,Bread,Butter,Milk ,Apple 
+16,,Chips,Bread,Butter,Milk ,Apple 
+17,,Chips,,Butter,Milk ,Apple 
+18,Wine ,Chips,Bread,Butter,Milk ,Apple 
+19,Wine ,,Bread,Butter,Milk ,Apple 
+20,Wine ,Chips,Bread,,Milk ,Apple 
+21,,Chips,,,,
